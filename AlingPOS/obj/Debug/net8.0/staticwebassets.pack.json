@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\compressed\\o4svcuhxab.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlingPOS.styles.css",
+      "PackagePath": "staticwebassets\\AlingPOS.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AlingPOS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AlingPOS.props",
+      "PackagePath": "build\\AlingPOS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AlingPOS.props",
+      "PackagePath": "buildMultiTargeting\\AlingPOS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AlingPOS.props",
+      "PackagePath": "buildTransitive\\AlingPOS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

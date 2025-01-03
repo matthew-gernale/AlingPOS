@@ -1,0 +1,11 @@
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\bin\Debug\net8.0\AlingPOS.Shared.deps.json
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\bin\Debug\net8.0\AlingPOS.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\bin\Debug\net8.0\AlingPOS.Shared.pdb
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.AssemblyInfoInputs.cache
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.AssemblyInfo.cs
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\refint\AlingPOS.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.pdb
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\ref\AlingPOS.Shared.dll
