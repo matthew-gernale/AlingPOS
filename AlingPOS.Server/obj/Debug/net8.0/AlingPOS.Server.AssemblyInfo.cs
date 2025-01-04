@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlingPOS.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d24057610dc999eafc4b126ac67c19cda88e8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlingPOS.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlingPOS.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

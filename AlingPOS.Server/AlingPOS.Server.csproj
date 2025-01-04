@@ -13,13 +13,13 @@
 		<PackageReference Include="MailKit" Version="4.4.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
 		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.3" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
-		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
@@ -35,8 +35,17 @@
 		<Using Include="Microsoft.AspNetCore.Mvc" />
 		<Using Include="Microsoft.AspNetCore.Authentication.JwtBearer" />
 		<Using Include="Microsoft.IdentityModel.Tokens" />
+		<Using Include="Microsoft.EntityFrameworkCore" />
 		<Using Include="System.Text" />
+		
+		<Using Include="AlingPOS.Server.Data" />
+
 		<Using Include="AlingPOS.Shared" />
+		<Using Include="AlingPOS.Shared.Models.Attendance" />
+		<Using Include="AlingPOS.Shared.Models.Auth" />
+		<Using Include="AlingPOS.Shared.Models.Expense" />
+		<Using Include="AlingPOS.Shared.Models.Product" />
+		<Using Include="AlingPOS.Shared.Models.Sales" />
 	</ItemGroup>
 
 </Project>

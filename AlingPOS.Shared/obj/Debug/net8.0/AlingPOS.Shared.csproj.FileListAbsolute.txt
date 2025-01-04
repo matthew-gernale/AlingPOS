@@ -9,3 +9,4 @@ C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\ob
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\refint\AlingPOS.Shared.dll
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.pdb
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\ref\AlingPOS.Shared.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS.Shared\obj\Debug\net8.0\AlingPOS.Shared.sourcelink.json

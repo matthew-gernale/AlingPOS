@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AlingPOS",
   "resources": {
-    "hash": "sha256-7T97LB5RHp0xo293OaGJGGtftmS+4twoGVAY8Tc3+Ew=",
+    "hash": "sha256-tXtgjEUEhrKppKyQaIFNKVHOaDu8kjVLm+h0o2nniew=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.z5tv1czn2z.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "AlingPOS.Shared.wasm": "sha256-YPvyxS+rvJb4jby2v8rRuSQvkPHfLYVwJ+eWq/q6C6o=",
-      "AlingPOS.wasm": "sha256-2qrJ0eqBEr0S2hUVeSt3g/YBlyxIJryRmOTVi/yVFdM="
+      "AlingPOS.Shared.wasm": "sha256-Pg6be2dh8hGf4cb3K4PMhvSGOK+sxVjXeiU6yHU+qKU=",
+      "AlingPOS.wasm": "sha256-PoDcEsXJSTlf+ykpwWUlyA0gGZe/hcS75DgG3nQC5FQ="
     },
     "pdb": {
-      "AlingPOS.Shared.pdb": "sha256-8qGe4H6B5RBciwWgIHFcp2GA2RP5BIaO7UY05wMfhdw=",
-      "AlingPOS.pdb": "sha256-7yQfoxAF65IhgZVZ1T4zc9KunB76h/aTdyXB4vXnKAA="
+      "AlingPOS.Shared.pdb": "sha256-5JuxuwthzOTRKSMT2vdq5dCIUKxBV0X92ZTjb7/zK20=",
+      "AlingPOS.pdb": "sha256-FbtbSumlyNGEVSaI+Zqt5NiW5IfARo/jLtEj3Kx44Us="
     }
   },
   "cacheBootResources": true,

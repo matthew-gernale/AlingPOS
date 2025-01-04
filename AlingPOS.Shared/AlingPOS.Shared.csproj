@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<Using Include="System.Net.Mime" />
+		<Using Include="System.Text.Json.Serialization" />
+		<Using Include="System.ComponentModel.DataAnnotations.Schema" />
+		
+		<Using Include="AlingPOS.Shared.Models.Auth" />
+		<Using Include="AlingPOS.Shared.Models.Attendance" />
+		<Using Include="AlingPOS.Shared.Models.Product" />
+		<Using Include="AlingPOS.Shared.Models.Sales" />
+		<Using Include="AlingPOS.Shared.Enum" />
+	</ItemGroup>
 </Project>

@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS.Server\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3772AFC6-4758-4AFE-9D4E-E52631CEE1F4}|AlingPOS.Server.csproj|c:\\users\\matthew gernale\\desktop\\programming\\asp.net\\alingpos\\alingpos.server\\alingpos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3772AFC6-4758-4AFE-9D4E-E52631CEE1F4}|AlingPOS.Server.csproj|solutionrelative:alingpos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlingPOS.Server",
+              "DocumentMoniker": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS.Server\\AlingPOS.Server.csproj",
+              "RelativeDocumentMoniker": "AlingPOS.Server.csproj",
+              "ToolTip": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS.Server\\AlingPOS.Server.csproj",
+              "RelativeToolTip": "AlingPOS.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T11:48:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K/pooBoCNVvf8hpSRN7r3CerF7myHIK0PaTWJTac3lc=",
+  "Hash": "EVYup7nkA94Nqi7r+ibpkcSam946BeE1JuJhbMxqqYA=",
   "Source": "AlingPOS.Server",
   "BasePath": "_content/AlingPOS.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "AlingPOS",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained;WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -7876,25 +7876,6 @@
       "OriginalItemSpec": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlingPOS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker\\service-worker.js",
-      "SourceId": "AlingPOS",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker\\",
-      "BasePath": "/",
-      "RelativePath": "service-worker.js",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerJs",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "wwwroot\\service-worker.js"
-    },
-    {
       "Identity": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker-assets.js.build",
       "SourceId": "AlingPOS",
       "SourceType": "Project",
@@ -7912,6 +7893,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\service-worker-assets.js.build"
+    },
+    {
+      "Identity": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker\\service-worker.js",
+      "SourceId": "AlingPOS",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\obj\\Debug\\net8.0\\service-worker\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker.js",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerJs",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\service-worker.js"
     },
     {
       "Identity": "C:\\Users\\Matthew Gernale\\Desktop\\Programming\\ASP.Net\\AlingPOS\\AlingPOS\\wwwroot\\css\\app.css",

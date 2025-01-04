@@ -3,6 +3,9 @@
 var builder = WebApplication.CreateBuilder(args);
 
 
+builder.Services.AddDbContext<DataContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AlingPOSConnection")));
+
 // Add services to the container.
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews();

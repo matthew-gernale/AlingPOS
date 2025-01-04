@@ -1042,3 +1042,4 @@ C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS\obj\Debug
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS\obj\Debug\net8.0\refint\AlingPOS.dll
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS\obj\Debug\net8.0\AlingPOS.pdb
 C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS\obj\Debug\net8.0\ref\AlingPOS.dll
+C:\Users\Matthew Gernale\Desktop\Programming\ASP.Net\AlingPOS\AlingPOS\obj\Debug\net8.0\AlingPOS.sourcelink.json
